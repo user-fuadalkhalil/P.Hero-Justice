@@ -1,0 +1,6 @@
+[submodule "legal-solution-resources"]
+    path = legal-solution-resources
+    url = <submodule-repo-url>
+[submodule "legal-solution-resources"]
+    path = legal-solution-resources
+    url = <https://github.com/user-fuadalkhalil/P.Hero-Justice>
